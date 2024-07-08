@@ -1,0 +1,5 @@
+PISCES is a biogeochemical model that simulates marine biological productivity and describes the biogeochemical cycles of carbon, oxygen and main nutrients (P, N, Si, Fe) (Aumont et al., 2015). It is the marine biogeochemistry component of two ocean modelling platforms (NEMO and CROCO), three Earth System models (IPSL-CM, CNRM-CM and EC-Earth) and one operational oceanographic system (MERCATOR-Ocean). 
+
+The GADI (Garvan Data Intensive) cluster is a high-performance computing facility designed to support data-intensive research and computational workloads across various scientific disciplines, managed by the National Computational Infrastructure (NCI) in Australia. 
+
+This repository records the documents and codes that running NEMO-PSICES model on GADI. 
